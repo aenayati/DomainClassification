@@ -1,0 +1,23 @@
+#
+# Sample Domain classifications.
+# Each domain can belong to more than one category
+#
+espn.com=sports
+espn.com=news
+cnn.com=news
+cnn.com=opinion
+cnn.com=politics
+nba.com=sports
+nfl.com=sports
+match.com=dating
+eharmony.com=dating
+
+#
+# Test corner cases
+#
+=test
+test.com=
+test.com=a
+test.com=a
+google.com/=11=searching
+xyz.com=
